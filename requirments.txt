@@ -1,0 +1,4 @@
+SQLAlchemy==0.8.2
+argparse==1.2.1
+pyodbc==3.0.6
+wsgiref==0.1.2
